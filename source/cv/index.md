@@ -16,4 +16,4 @@ Une grande fierté : l'accompagnement humain.
 ## [Wavestone](https://www.wavestone.com)
 ## [Sia Partner](https://www.sia-partner.com)
 ## et avant
-les éléments sont sur link
+Aller voir les éléments sur [Linkedin](https://www.linkedin.com/in/quinault/)
