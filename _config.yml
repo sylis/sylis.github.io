@@ -80,3 +80,4 @@ deploy:
   type: git
   repo: git@github.com:sylis/sylis.github.io.git
   branch: master
+  message: "Mise à jour : {{ now('YYYY-MM-DD HH:mm:ss') }}"
