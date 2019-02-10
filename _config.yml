@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Victor Quinault
-subtitle: Business transformation
-description:
+title: Business transformation
+subtitle: Victor Quinault
+description: Management, Digital, Change, Entrepreunership
 author: Victor Quinault
 language:
 timezone:
@@ -19,7 +19,7 @@ permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: public
+public_dir: ../sylis.github.io
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
