@@ -2,7 +2,7 @@
 title: cv
 date: 2019-02-10 19:36:03
 ---
-![photo_cv](image/victor.jpg)
+![photo_cv](/image/victor.jpg)
 Manager consultant
 
 # Mes projets

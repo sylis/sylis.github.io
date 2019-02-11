@@ -9,7 +9,7 @@ Le monde change, alors autant être acteur de ce changement !
 
 
 # Histoire
-Comme vous le verez dans mon [CV](./page/cv), je suis un ingénieur qui a réalisé ses 10 premières années dans le conseil.
+Comme vous le verez dans mon [CV](/cv), je suis un ingénieur qui a réalisé ses 10 premières années dans le conseil.
 
 J'ai pu accompagner plusieurs très belles entreprises, mais il toujours ressorti que l'humain était la clé qui permettait de transformer les organisations et les pratiques.
 
