@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Business transformation</title>
+  
+  <subtitle>Victor Quinault</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.quinault.eu/"/>
+  <updated>2019-02-10T22:53:30.632Z</updated>
+  <id>http://www.quinault.eu/</id>
+  
+  <author>
+    <name>Victor Quinault</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>erp open source</title>
+    <link href="http://www.quinault.eu/2019/02/10/erp-open-source/"/>
+    <id>http://www.quinault.eu/2019/02/10/erp-open-source/</id>
+    <published>2019-02-10T15:06:36.000Z</published>
+    <updated>2019-02-10T22:53:30.632Z</updated>
+    
+    <content type="html"><![CDATA[<p>Les ERP opensource vont ils faciliter la digitalisation de l’entreprise ?</p><h2 id="Opportunite"><a href="#Opportunite" class="headerlink" title="Opportunité"></a>Opportunité</h2><p>Les entreprises ont besoins de structurer et automatiser leurs processus. </p><p>Des solutions open source existantes permettent de le faire à moindre coût (maintient par la communauté) et en offrant des fonctionnalités standard et avancées.</p><h3 id="Premiere-analyse-du-marche"><a href="#Premiere-analyse-du-marche" class="headerlink" title="Première analyse du marché"></a>Première analyse du marché</h3><ul><li><a href="https://www.odoo.com/fr_FR/page/editions" target="_blank" rel="noopener">Odoo</a><br>Mon coup de cœur historique, mais le renforcement de l’édition entreprise présente un risque</li><li><a href="https://github.com/axelor/axelor-business-suite" target="_blank" rel="noopener">Axelor</a><br>Semble prometteur, assez récent, basé sur Java, mais peu de contributeur</li><li><a href="http://erpnext.com/" target="_blank" rel="noopener">ERPNext</a><br>Semble très prometteur, je suis en train de le tester.<br>Philosophie très opensource, communauté plus petite que celle d’Odoo (le produit est plus récent) mais est bien engagée (Fondation)<br>Plus simple qu’Odoo (Monolith + module)</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Les ERP opensource vont ils faciliter la digitalisation de l’entreprise ?&lt;/p&gt;
+&lt;h2 id=&quot;Opportunite&quot;&gt;&lt;a href=&quot;#Opportunite&quot; class=&quot;headerli
+      
+    
+    </summary>
+    
+    
+      <category term="erp, open source" scheme="http://www.quinault.eu/tags/erp-open-source/"/>
+    
+  </entry>
+  
+</feed>
