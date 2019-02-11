@@ -31,6 +31,7 @@ show_count: false
 
 # Miscellaneous
 google_analytics: UA-134175387-1
+disqus_shortname: www-quinault-eu
 
 favicon: false #/favicon.png
 twitter: vquinault
