@@ -1,6 +1,8 @@
 # Header
 menu:
   Home: /
+  Un-peu-plus-sur-moi: /Un-peu-plus-sur-moi
+  cv: /cv
   Archives: /archives
 rss: /atom.xml
 
@@ -28,9 +30,10 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
-favicon: /favicon.png
-twitter:
-google_plus:
+google_analytics: UA-134175387-1
+
+favicon: false #/favicon.png
+twitter: vquinault
 fb_admins:
 fb_app_id:
+
